@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.142.179.14:9980/mithuntechnologies/repository/hdfcbank-release/</url>
+	      <url>http://54.227.37.210:9988/karthik/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
